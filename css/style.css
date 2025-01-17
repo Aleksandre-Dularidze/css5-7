@@ -23,7 +23,7 @@ body {
 
 /* header */
 
-.header {
+header {
   display: flex;
   padding: 14px 0;
   justify-content: space-between;
@@ -369,7 +369,7 @@ h2 {
   color: #fff;
 }
 
-.let {
+main {
   display: flex;
   flex-direction: column;
   gap: 40px;
@@ -515,7 +515,7 @@ h2 {
   font-weight: 400;
 }
 
-.footer {
+footer {
   display: flex;
   flex-direction: column;
   gap: 64px;
